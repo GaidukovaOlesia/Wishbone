@@ -274,6 +274,7 @@ max-width:460px ;
 .prior-clients-box h3{
     font:32px/38px 'Poppins';
     color: #FFFFFF;
+    margin-bottom: 15px;
 }
 .prior-clients-box p{
     font:15px/24px 'Poppins';
