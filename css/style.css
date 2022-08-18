@@ -296,7 +296,18 @@ max-width:460px ;
     align-items: center;
 }
 .swirling .swirling-stair{
-    max-width: 600px;
+    max-width: 300px;
     margin-left: 60px;
 }
+.swirling .swirling-stair h3{
+    font: 14px/20px 'Poppins';
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.swirling .swirling-stair p{
+    font: 16px/24px 'Poppins';
+    color: #645C55;
+}
+
 
