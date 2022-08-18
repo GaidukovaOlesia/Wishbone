@@ -264,6 +264,7 @@ header nav ul li:last-of-type a{
 }
 .prior-clients-box{
 max-width:460px ;
+    margin-right: 132px;
 }
 .prior-clients-box h4{
     font:14px/20px 'Poppins';
@@ -284,8 +285,8 @@ max-width:460px ;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 290px;
     flex-direction: column;
+    margin-right: 144px;
 }
 .swirling{
     background-image: url("../images/swirling.png");
@@ -309,6 +310,12 @@ max-width:460px ;
 .swirling .swirling-stair p{
     font: 16px/24px 'Poppins';
     color: #645C55;
+}
+.hill{
+    margin-bottom: 128px;
+}
+.riks{
+    margin-bottom: 96px;
 }
 
 
