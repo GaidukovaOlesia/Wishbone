@@ -161,6 +161,30 @@ header nav ul li:last-of-type a{
     max-width: 280px;
     align-items: center;
 }
+.redding-house{
+    background-image: url("../images/IMAGE3.png");
+    background-size: cover;
+    min-height: 600px;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.redding-house .house{
+    max-width: 300px;
+    margin-right: 60px;
+}
+.redding-house .house h3{
+    font: 14px/20px 'Poppins';
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.redding-house .house p{
+    font: 16px/24px 'Poppins';
+    color: #645C55;
+}
 .subject{
     font-family: 'Poppins', sans-serif;
     font-style: normal;
@@ -199,6 +223,80 @@ header nav ul li:last-of-type a{
 .block{
     max-width: 294px;
     margin: auto;
+    text-align: center;
 }
+.stair{
+    background-image: url("../images/Stair.png");
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    min-height: 600px;
+}
+.stair .staircase{
+    max-width: 300px;
+    margin-right: 60px;
+}
+.stair .staircase h3{
+    font: 14px/20px 'Poppins';
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.stair .staircase p{
+    font:16px/24px 'Poppins';
+    color: #645C55;
+}
+.clients{
+    background: #403E3B;
+    border-radius: 0px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.prior-clients{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 
+}
+.prior-clients-box{
+max-width:460px ;
+}
+.prior-clients-box h4{
+    font:14px/20px 'Poppins';
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #ECE7E4;
+}
+.prior-clients-box h3{
+    font:32px/38px 'Poppins';
+    color: #FFFFFF;
+}
+.prior-clients-box p{
+    font:15px/24px 'Poppins';
+    color: #ECE7E4;
+}
+.clients-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 290px;
+    flex-direction: column;
+}
+.swirling{
+    background-image: url("../images/swirling.png");
+    background-size: cover;
+    min-height: 600px;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.swirling .swirling-stair{
+    max-width: 600px;
+    margin-left: 60px;
+}
 
